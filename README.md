@@ -22,5 +22,5 @@ A collection of my **Python and Django projects** created while learning and pra
 
 ## Author
 
-**Shweta **  
+Shweta 
 Software Developer | Python | Django | Flask | Generative AI
